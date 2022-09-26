@@ -1,0 +1,39 @@
+body{ background-color:rgb(17, 107,143,0.377);
+}
+
+.input{
+    width: 300px;
+    padding: 2rem 1rem;
+    margin: 50px auto;
+    background-color: #ffff;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 20px 35px rgb(0, 0, 0,0.4);
+
+}
+
+form input{
+    border-radius: 20px;
+    padding: 12px 20px;
+    background:#e4e4e4;
+    border: 1px solid #fff;
+    outline: none;
+    margin-bottom: 10px;
+    width: 90%;
+}
+
+button{
+    width: 72%;
+    background:rgb(17, 107,143,0.877);
+    border-radius: 50px;
+    padding: 10px;
+    margin: 30px 20px;  
+}
+
+.term a{
+    color: rgb(17, 107,143,0.877);
+}
+
+.valid a{
+    color: rgb(17, 107,143,0.877);
+}
